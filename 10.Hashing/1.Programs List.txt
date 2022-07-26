@@ -1,0 +1,10 @@
+S.No.	Program	
+29	Program for Hash Table Implementation for Basic Hash Function (Without collisions)	
+30	Program for Hash Table Implementation for Collision Resoulution using Linear Probing 	
+31	Program for Hash Table Implementation for Collision Resoulution using Quadratic Probing 	
+32	Program for Hash Table Implementation for Collision Resoulution using Double Hashing/Re-Hashing	
+33	Program for Hash Table Implementation for Collision Resoulution using Chaining	
+34	Finding Anagrams: There are two strings. Find out which characters should be deleted such that both strings contain the same characters (May be in different Order)	
+35	There are some numbers in which some are appearing twice but one is not repeated. Find out the number which appears once.	
+36	There are two arrays containing some elements. Find out what are the elements which are there in both the arrays what are not.	
+37	find out the values of a,b,c,d (a,b,c,d<=1000) for which a3+b3=c3+d3.	

@@ -1,0 +1,9 @@
+S.No.	Program	
+38	Program for finding length of a string	
+39	Program for reversing the given string	
+40	Program for finding if the given string is a palindrome	
+41	Program for finding word count in the Paragraph	
+42	Program for converting all lower case letters to upper case and vice versa in the given sentence	
+43	Program for finding if the given word is present in the sentence and at what location	
+44	Program for sorting the given names in the dictionary order	
+45	Program for reversing all words in a sentence	

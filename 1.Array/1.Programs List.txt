@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------------
+
+S.No.	Program	Domain
+1	Program for Array Inserion, Deletion and traversal in Array	
+2	Program for Insertion in Sorted Array	
+3	Program to Find the number which is not repeated in Array of integers, others are present for two times	
+4	Program For Linear Search	
+5	Program for Binary Search	
+6	Program for Index Sequential Search	
+7	Program for Bubble, Selection and Insertion Sort	
+8	Program for Implementation of Shell Sort	
+9	Program for Quick Sort	
+10	Program for Merge Sort	
+11	Program for Merging of two Sorted Arrays	
+12	Program for Finding set elements of A that belongs to set B	
+13	Program for Finding set elements of A that does not belongs to set B	
+14	Program for Set Union	
+15	Program for Set Intersection	
+16	Program for Set Difference	
+17	Program for Counting Sort 	
+18	Program for Radix Sort	
+19	Program for Matrix Addition	
+20	Program for Matrix Multiplication	
+21	Program for Matrix transposition	
+22	Program for Matrix transposition without second matrix	
+23	Program to Print a given matrix in spiral form 	
+24	Program for Sorting the given Complex Numbers	
+123	Program for Randomized Quick Sort	
+124	Program for Quick Sort using Median element as Pivot	
+128	Program to print the array items using function and pointers
+129	Program to store and display information of students in a class using array of structure and function
+-------------------------------------------------------------------------------------

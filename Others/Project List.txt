@@ -1,0 +1,13 @@
+Project 1: Program for Heap Sort		
+Project 2: Performance Comparision of Sorting Algorithms		
+Project 3: Identification of tokens and identifiers and storage in Hash Table		
+Project 4: Program for automatic word spelling correction using Minimum Edit Distance		
+Project 5: Program for evaluation of given arithmetic expression. The Expression may have variables and constants		
+Project 6: Program for Addition of Two very long Numbers 		
+Project 7: Implementation of Josephus Problem		
+Project 8: Program for Huffman Coding		
+Project 9: Creation of Binary Tree from Pre-Order and Inorder Traversal		
+Project 10: Program to Create Expression Tree and its Traversal		
+Project 11: Program for Binary Search Tree Deletions		
+Project 12: Program for Implementation of Interval Tree		
+Project 13: Program for implemenation of Travelling Salesman Problem		

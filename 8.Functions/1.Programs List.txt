@@ -1,0 +1,2 @@
+S.No.	Program	
+127	Program for finding sum of sine, cosine and e-power-x series using function	
